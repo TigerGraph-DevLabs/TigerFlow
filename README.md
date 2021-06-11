@@ -65,6 +65,7 @@ Needed information to get up and running
 
 ## Video
 
+   [![Video Tutorial](https://i9.ytimg.com/vi/qMGEtTCvayQ/mqdefault.jpg?time=1623409500000&sqp=CNyGjYYG&rs=AOn4CLCsXHDWj0K_rfriTEW5wPM6JklfJw)](https://youtu.be/qMGEtTCvayQ)
 
 ## License
 
