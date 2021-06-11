@@ -22,8 +22,7 @@ TigerFlow uses a number of open source projects to work properly:
 - [AngularJS] - HTML enhanced for web apps!
 - [Ace Editor] - awesome web-based text editor
 - [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
-- [jQuery] - duh
+- [Express] - fast node.js network app framework
 
 ## Installation :rocket:
 
