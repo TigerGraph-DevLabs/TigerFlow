@@ -31,7 +31,7 @@ The TigerFlow can be ran via docker you will need to have docker installed.
 pull a local docker image of TigerFlow
 
 ```sh
-docker pull 
+docker pull graphflow/tigerflow
 ```
 
 Run the container ...
